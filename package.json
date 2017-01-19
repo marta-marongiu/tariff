@@ -1,0 +1,29 @@
+{
+  "name": "imdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "isotope-layout": "^3.0.1",
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0",
+    "gulp-watch": "^4.3.11"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marta-marongiu/imdb.git"
+  },
+  "author": "Marta Marongiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marta-marongiu/imdb/issues"
+  },
+  "homepage": "https://github.com/marta-marongiu/imdb#readme"
+}
